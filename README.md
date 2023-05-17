@@ -10,7 +10,7 @@ effective prediction system to determine the survival rate of juvenile sea cucum
 identifying the live and processed (dried) sea cucumbers through enhanced technology 
 while providing an efficient prediction system related to the survival rate of juveniles,
 animal growth, price prediction, and quality to increase the revenues earned by sea cucumber industry
-in Sri Lanka and to build up the economic conditions of sea cucumber farming communities in Sri Lanka
+in Sri Lanka and to build up the economic conditions of sea cucumber farming communities in Sri Lanka.
 
 **Main Research Questions -**
 

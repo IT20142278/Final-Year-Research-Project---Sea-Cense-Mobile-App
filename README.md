@@ -4,7 +4,7 @@
 identification and processing of live and dried sea cucumbers while offering an 
 effective prediction system to determine the survival rate of juvenile sea cucumbers.
 
-**Main Objective - **
+**Main Objective -**
 
 “SeaCense" is a solution to enhance the efficiency and effectiveness in
 identifying the live and processed (dried) sea cucumbers through enhanced technology 

@@ -73,7 +73,9 @@ Develop a standardized method to assess the quality of processed sea cucumbers b
 **Other Necessary Information-**
 
 Supervisor - Ms. Buddhima Aththanayaka
+
 Co-Supervisor - Ms. Narmada Gamage
+
 External Supervisor - Dr. Chamari Dissanayaka
 
 Data collected from - Suganth International (Pvt) Ltd 

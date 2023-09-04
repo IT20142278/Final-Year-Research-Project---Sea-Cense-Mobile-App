@@ -1,9 +1,0 @@
-{
-    "cmake.sourceDirectory": "E:/Projetcs/Flutter/Sea Cucumber/sea_cense/linux",
-    "workbench.colorCustomizations": {
-        "activityBar.background": "#2F294C",
-        "titleBar.activeBackground": "#41396A",
-        "titleBar.activeForeground": "#FCFCFD"
-    },
-    "cmake.configureOnOpen": false
-}

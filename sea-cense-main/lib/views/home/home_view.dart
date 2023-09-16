@@ -47,7 +47,7 @@ class _HomeViewState extends State<HomeView> {
                         width: 20,
                       ),
                       const Text(
-                        'Sea Cence',
+                        'Sea Cense',
                         style: TextStyle(color: Colors.white, fontSize: 30, fontWeight: FontWeight.w200),
                       )
                     ],

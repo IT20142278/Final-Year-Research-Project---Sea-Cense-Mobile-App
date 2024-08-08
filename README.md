@@ -43,9 +43,7 @@ effectively predict the growth and biomass of sea cucumber juveniles in Sri Lank
 
 Individual Research Objective -
 
-Identify the size and wet weight of sea cucumber juveniles using image processing and then by its initial wet weight and 
-the categorization we identify earlier, predicting it’s survival rate, specific growth rate per day, weight gain as a percentage and
-total biomass of it with the help of the mobile application.
+Image processing is used to accurately detect the features of the juvenile and then categorize them into small (1.5 g), medium (3.5g), and big  (7.5 g) sizes and then it provides results regarding survival rate, specific growth rate per day and total biomass, which can be used to inform sustainable aquaculture practices with the help of the mobile application.
 
 **IT20256500 - R.K.M Thushamini**
 
